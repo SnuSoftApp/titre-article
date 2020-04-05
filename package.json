@@ -1,5 +1,5 @@
 {
-  "name": "titre-article",
+  "name": "@snusoft/titre-article",
   "version": "1.0.0",
   "description": "Vue Component for display title in SNUipp website",
   "main": "src/index.js",

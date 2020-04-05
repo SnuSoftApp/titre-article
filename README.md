@@ -15,7 +15,7 @@
 Install the package from npm by running:
 
 ```
-$ npm i @snusoft\titre-article
+$ npm i @snusoft/titre-article
 ```
 
 
